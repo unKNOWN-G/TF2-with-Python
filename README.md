@@ -85,3 +85,8 @@ Things to Learn:
 ### Basics on Youtube + Kaggle
 
 [aladdinpersson/Machine-Learning-Collection](https://github.com/aladdinpersson/Machine-Learning-Collection/tree/master/ML/TensorFlow/Basics)
+
+1. https://lyhue1991.github.io/eat_tensorflow2_in_30_days/english/Chapter6/Chapter6-1/
+2. Note books in description of (https://www.youtube.com/watch?v=tPYj3fFJGjk&t=6565s)
+3. 03,04 of https://github.com/mhuzaifadev/deeplearningmasterclass
+4. https://github.com/tensorflow/workshops/tree/master/extras/archive
