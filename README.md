@@ -9,7 +9,7 @@
 1. RoadMap (Analyze Udemy, Coursera, Web)
 1. Basics on Youtube + Kaggle (or respective top site on domain)
 1. How Not to Learn
-1. Tools + Tips
+1. Tools + Tips ([Tensorboard](https://www.youtube.com/watch?v=k7KfYXXrOj0&t=389s))
 1. Project - 1
 1. Udemy
 1. Project - 2
@@ -81,3 +81,7 @@ Things to Learn:
 2. TF basics
 3. Graph Execution
 4. Tensorboard, tools associated with tensorflow
+
+### Basics on Youtube + Kaggle
+
+[aladdinpersson/Machine-Learning-Collection](https://github.com/aladdinpersson/Machine-Learning-Collection/tree/master/ML/TensorFlow/Basics)
