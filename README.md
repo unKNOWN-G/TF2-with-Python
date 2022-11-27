@@ -90,3 +90,11 @@ Things to Learn:
 2. Note books in description of (https://www.youtube.com/watch?v=tPYj3fFJGjk&t=6565s)
 3. 03,04 of https://github.com/mhuzaifadev/deeplearningmasterclass
 4. https://github.com/tensorflow/workshops/tree/master/extras/archive
+
+5. Udemy : https://github.com/mrdbourke/tensorflow-deep-learning
+
+Tools
+Pydot
+Tensorboard
+Weights and biases https://wandb.ai/site
+neural network playground
